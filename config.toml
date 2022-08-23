@@ -1,0 +1,90 @@
+baseURL = "https://www.abana.rocks/"
+languageCode = "it-it"
+paginate = 7
+theme = "portio"
+title = "Abana Rocks"
+publishdir = "/home/abana/public" 
+# Main Menu
+[[menu.main]]
+name = "Competenze"
+url = "#service"
+weight = 1
+[[menu.main]]
+name = "In mostra"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 3
+[[menu.main]]
+name = "Docenti"
+url = "#Docenti"
+weight = 4
+[[menu.main]]
+name = "Testimonianze"
+url = "#testimonial"
+weight = 5
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contatti"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Home"
+url = "#"
+weight = 1
+[[menu.sitemap]]
+name = "Portfolio"
+url = "portfolio"
+weight = 2
+[[menu.sitemap]]
+name = "Blog"
+url = "blog"
+weight = 3
+[[menu.sitemap]]
+name = "Contatti"
+url = "contact"
+weight = 4
+
+[params]
+masterpiecePageURL = "masterpiece"
+portfolioPageURL = "portfolio"
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Coppola Gaito 2021"
+footerLogo = "images/contact/logobianco.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo2.png"
+
+[params.address]
+address = "Via S.M. di Costantinopoli, 107a – 80138 Napoli"
+email = "gd.abanapoli@gmail.com"
+openingHours = "Aperti dalle 09:00 alle 18:00  Domenica esclusa"
+phone = "081.441900 – 081.441887"
+
+
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/scuoladigraphicdesignabana"
+weight = 1
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/designdellacomunicazione_abana/"
+weight = 2
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/company/accademia-di-belle-arti-di-napoli/about/"
+weight = 3
+[[params.social]]
+icon = "fa-globe"
+url = "http://www.abana.it/it/"
+weight = 4

@@ -1,0 +1,49 @@
+---
+enable: true
+topTitle: Docenti
+title: >
+  ## I nostri esperti
+
+  I docenti della Scuola di Design della Comunicazione
+service:
+  - content: >
+      #### Enrica D'Aguanno
+
+      Coordinatore e Docente di Desing della Comunicazione dal 2007. Socio fondatore
+      di Mem Art dal 2014. Art Director presso Arte-m dal 2009.
+    image: images/docenti/daguanno.png
+  - content: >
+      #### Ivana Gaeta 
+
+      Docente di Design della Comunicazione e di Editoria dal 2010. Titolare dello studio di
+      comunicazione visiva Puntotif dal 2000.
+    image: images/docenti/gaeta.png  
+  - content: >
+      #### Marino Guarnieri
+
+      Regista, animatore e illustratore. Socio di Mad Entertainment. Nel 2018
+      vincitore di due David di Donatello e un Nastro d'Argento per La Gatta Cenerentola.
+    image: images/docenti/guarnieri.png   
+  - content: >
+      #### Pasquale Massimo
+      
+      Insegnante dal 1999 per la Scuola Italiana di Comix e, dal 2002 Docente di Design della Comunicazione.
+      Fumettista di fama internazionale.
+      
+    image: images/docenti/pako.png
+  - content: >
+      #### Daniela Pergreffi
+
+      Docente di Design della Comunicazione e di Grafica d'Arte. Illustratrice
+      per il Corriere Della Sera; si occupa di produzioni editoriali artistiche.
+    image: images/docenti/pergreffi.png
+  - content: >
+      #### Giacomo Tufano 
+
+      Sviluppatore indipendente di applicazioni per Mac e iOS e
+      web per il mercato consumer e di backend applicativi per il mercato.
+
+
+    image: images/docenti/tufano.png  
+  
+    

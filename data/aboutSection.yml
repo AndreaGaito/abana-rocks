@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: In mostra
+title: >
+  ##  Masterpiece
+
+  Un focus sui migliori progetti, realizzati dalla Scuola di Design della Comunicazione.
+
+content: >
+  ### Pink Night 2020
+
+  Campagna visiva della Pink Night 2020 a cura
+  dell'Accademia di Belle Arti di Napoli - Corso design della comunicazione.
+  Il design grafico scelto per la manifestazione "Pink Night 2020" è di: Fatima Ahmad
+  Hanno partecipato al progetto gli studenti del secondo anno del triennio di Design della Comunicazione.
+button1Name: Visualizza
+button2Name: Archivio
+button1Target: masterpiece/pinknight/
+button2Target: masterpiece
+image: images/masterpiece/pinknight.png

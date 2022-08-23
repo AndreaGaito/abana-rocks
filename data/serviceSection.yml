@@ -1,0 +1,52 @@
+---
+enable: true
+topTitle: Competenze
+title: >
+  ## Servizi Creativi
+
+  Dai uno sguardo alla varietà di discipline che caratterizzano la Scuola di Design della Comunicazione
+
+service:
+  - content: >
+      #### UI/UX Design 
+
+      Studio e progettazione di interfacce di sistemi informatici e software
+      al fine di rendere più chiara e piacevole la navigazione per l’utente.
+    image: images/service/ui.png
+  - content: >
+      #### Web Design 
+
+      Disegno, creazione e sviluppo tecnico di siti web, linguaggio HTML/CSS, tenendo conto dello stile 
+      comunicativo e dell’identità grafica.
+    image: images/service/web.png
+  - content: >
+      #### Visual Design 
+
+      Progettazione visuale di contenuti e supporti grafici e multimediali atti a comunicare
+      ed informare mediante testi e immagini.
+    image: images/service/visual.png
+  - content: >
+      #### Game Design
+
+      Applicazione e studio del design e dell'esperienza utente finale al fine di creare un’estetica di gioco
+      accattivante con interazioni inedite.
+    image: images/service/game.png
+  - content: >
+      #### Illustrazione
+
+      Rappresentazione visiva ed evocativa che si manifesta sotto forma di disegno,
+      dipinto, fotografia o altre tecniche tradizionali e non.
+    image: images/service/Illustrazione.png
+  - content: >
+      #### Branding
+
+      Processo atto a creare e promuovere l’immagine e l’identità di una marca, incentivando
+      la fedeltà dei clienti ad essa.
+    image: images/service/branding.png
+  - content: >
+      #### Animazione
+
+      L'animazione è una tecnica che crea la percezione di movimento tramite immagini proposte
+      allo spettatore in rapida successione temporale.
+    image: images/service/animazione.png
+

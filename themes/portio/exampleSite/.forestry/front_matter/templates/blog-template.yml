@@ -1,0 +1,26 @@
+---
+label: Blog Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featureImage
+  label: featureImage
+- type: file
+  name: postImage
+  label: postImage
+pages:
+- content/blog/blog1.md
+- content/blog/blog2.md
+- content/blog/blog3.md
+- content/blog/blog4.md
+- content/blog/blog5.md
+- content/blog/blog6.md
+- content/blog/blog7.md
+- content/blog/blog8.md
+- content/blog/blog9.md

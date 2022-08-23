@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: Testimonianze
+title: >
+  ## Cosa dicono di noi?
+
+testimonial:
+  - name: IlCrivello
+    comment: Incontrare Enrica D’Aguanno, in un momento storico caratterizzato dalla chiusura della didattica in presenza a causa dell’emergenza sanitaria in atto da ormai un anno a
+              questa parte, significa riflettere con lei sul significato dell’insegnamento al tempo del Covid-19 e sulle possibili nuove frontiere della formazione che, inevitabilmente, dovranno tenere conto dei mutamenti verificatisi in questi mesi.
+    time: Jan 20, 2020
+    star: 
+  - name: Teleischia
+    comment: La “tre giorni di orientamento” andata in scena in versione digitale non fa altro che confermare l’impegno e la centralità dell’Accademia di Belle Arti di Napoli, e del mondo dell’arte e della cultura nel territorio partenopeo. Oltre a questo, rinforza la voglia di adattarsi ai tempi che corrono, utilizzando il mondo dell’online come fonte di diffusione dell’arte e della cultura.
+    time: Jan 16, 2020
+    star: 
+  - name: Giovanna Cassese
+    comment: I corsi hanno un’importanza fondamentale, le nuove tecnologie hanno sempre trovato spazio nell'Accademia di Belle Arti di Napoli, 
+              e per questo motivo che i corsi dedicati meritano il massimo sostengoLa questione fondamentale è che vogliamo formare artisti che siano delle eccellenze in termini di ricerca ed innovazione, in ogni ambito, quindi anche sul versante della new media art.
+    time: Mar 08, 2020
+    star: 

@@ -3,7 +3,6 @@ languageCode = "it-it"
 paginate = 7
 theme = "portio"
 title = "Abana Rocks"
-publishdir = "/home/abana/public" 
 # Main Menu
 [[menu.main]]
 name = "Competenze"
